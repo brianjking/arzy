@@ -35,6 +35,8 @@ To install the Arzy theme manually:
 
 ***
 
+### How to Activate
+
 Activate the UI theme and color scheme by modifying your user preferences file. Find that by clicking `Sublime Text -> Preferences -> Settings - User` (<kbd>⌘</kbd><kbd>,</kbd> on Mac).
 
 Remember to restart Sublime after switching to the Arzy theme.
@@ -130,5 +132,9 @@ Tabs width:
 ```json
   "arzy_sidebar_tree_xlarge": true
 ```
+
+***
+
+### Enjoy.
 
 
