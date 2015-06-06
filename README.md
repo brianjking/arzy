@@ -1,5 +1,5 @@
 # Arzy
-A minimal, yet beautiful theme for Sublime Text. Sidebar like Spacegray. Larger tabs like Predawn. Background color closer to true gray. Color schemes closer to, but not exactly like Monokai with varying contrasts.
+A minimal, yet beautiful theme for Sublime Text. Sidebar like [Spacegray](https://github.com/kkga/spacegray). Larger tabs like [Predawn](https://github.com/jamiewilson/predawn). Background color closer to true gray. Color schemes closer to, but not exactly like Monokai with varying contrasts.
 
 ***
 
