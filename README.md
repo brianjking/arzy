@@ -58,6 +58,9 @@ Remember to restart Sublime after switching to the Arzy theme.
   "color_scheme": "Packages/Theme - Arzy/Heliopolis.tmTheme"
 }
 ```
+
+***
+
 ### Settings
 
 #### Tab labels font size
